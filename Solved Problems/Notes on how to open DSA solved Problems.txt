@@ -1,0 +1,3 @@
+How to Open Solved Problem
+-open Proj1
+-open src
